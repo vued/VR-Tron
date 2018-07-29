@@ -12,14 +12,14 @@ public class PlaceBorder : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		lastPosition = player.transform.position +  5 * (player.transform.rotation * borderTemplate.transform.localPosition);
+		lastPosition = player.transform.position + 2.5f * (player.transform.rotation * borderTemplate.transform.localPosition);
 	}
 	
 	// Update is called once per frame
 	void Update () {
-		Vector3 currentPosition = player.transform.position +  5 * (player.transform.rotation * borderTemplate.transform.localPosition);
+		Vector3 currentPosition = player.transform.position + 2.5f * (player.transform.rotation * borderTemplate.transform.localPosition);
 		Debug.Log ("currentPosition: " + currentPosition + " ; lastPosition: " + lastPosition);
-		if ((currentPosition - lastPosition).magnitude >= 5) { // constraint for placing new wall element
+		if ((currentPosition - lastPosition).magnitude >= 1) { // constraint for placing new wall element
 			
 			GameObject newWallElement = Instantiate(borderTemplate, (currentPosition + lastPosition) / 2, Quaternion.LookRotation((currentPosition - lastPosition)), wallElements.transform);
 			//newWallElement.transform.Rotate (currentPosition - lastPosition);

@@ -181,7 +181,7 @@ MonoBehaviour:
   m_MinSize: {x: 915, y: 571}
   m_MaxSize: {x: 22010, y: 18021}
   vertical: 0
-  controlID: 1475
+  controlID: 55
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -205,7 +205,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 442}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 1476
+  controlID: 261
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -279,7 +279,7 @@ MonoBehaviour:
   m_MinSize: {x: 204, y: 421}
   m_MaxSize: {x: 4004, y: 8021}
   vertical: 1
-  controlID: 1618
+  controlID: 56
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -298,8 +298,8 @@ MonoBehaviour:
     y: 0
     width: 469
     height: 491
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 23}
   m_Panes:
   - {fileID: 23}
@@ -354,7 +354,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 571}
   m_MaxSize: {x: 10004, y: 18021}
   vertical: 1
-  controlID: 1571
+  controlID: 127
 --- !u!114 &16
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -564,9 +564,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 247.27808, y: -11.121505, z: 214.26567}
+    m_Target: {x: 253.66333, y: -10.636301, z: 204.96933}
     speed: 2
-    m_Value: {x: 247.27808, y: -11.121505, z: 214.26567}
+    m_Value: {x: 253.66333, y: -10.636301, z: 204.96933}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -589,13 +589,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.2817136, y: 0.64408535, z: -0.6550238, w: 0.2770115}
+    m_Target: {x: 0.466329, y: 0.4216549, z: -0.26956573, w: 0.7294373}
     speed: 2
-    m_Value: {x: 0.2817136, y: 0.64408535, z: -0.6550238, w: 0.2770115}
+    m_Value: {x: 0.466329, y: 0.4216549, z: -0.26956573, w: 0.7294373}
   m_Size:
-    m_Target: 41.149384
+    m_Target: 22.337784
     speed: 2
-    m_Value: 41.149384
+    m_Value: 22.337784
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -781,14 +781,14 @@ MonoBehaviour:
     width: 465
     height: 475
   m_SceneLighting: 0
-  lastFramingTime: 1925.8796399190553
+  lastFramingTime: 5106.43430054084
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 249.00975, y: 1.3099444, z: 73.76643}
+    m_Target: {x: 248.68648, y: 0.7292625, z: 74.501274}
     speed: 2
-    m_Value: {x: 249.00975, y: 1.3099444, z: 73.76643}
+    m_Value: {x: 248.68648, y: 0.7292625, z: 74.501274}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -811,13 +811,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.25272486, y: -0.68307006, z: 0.27505967, w: 0.62760484}
+    m_Target: {x: 0.29568958, y: 0.2992718, z: -0.09811969, w: 0.90187395}
     speed: 2
-    m_Value: {x: 0.25272483, y: -0.68307, z: 0.27505964, w: 0.6276048}
+    m_Value: {x: 0.29568958, y: 0.2992718, z: -0.09811969, w: 0.90187395}
   m_Size:
-    m_Target: 4.7450347
+    m_Target: 3.3008103
     speed: 2
-    m_Value: 4.7450347
+    m_Value: 3.3008103
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -855,24 +855,24 @@ MonoBehaviour:
     width: 629
     height: 203
   m_TreeViewState:
-    scrollPos: {x: 0, y: 6}
-    m_SelectedIDs: 102b0000
-    m_LastClickedID: 11024
-    m_ExpandedIDs: d6fbffff00000000242b0000442b0000562b00005a2b0000
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: d6fbffff
+    m_LastClickedID: -1066
+    m_ExpandedIDs: 52c3f3ff74dcf8ffe0dcfaffd6fbffff00000000102b0000242b0000442b0000682b0000a27e0000a67e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Border Player One Wall
-      m_OriginalName: Border Player One Wall
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 11024
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 16}
     m_SearchString: 
@@ -953,7 +953,7 @@ MonoBehaviour:
   m_LastProjectPath: C:\Users\Public\Documents\Unity Projects\VR-Tron\VR-Tron
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
+    scrollPos: {x: 0, y: 95}
     m_SelectedIDs: 98250000
     m_LastClickedID: 9624
     m_ExpandedIDs: 0000000098250000d625000024260000022700003e280000be2800002629000000ca9a3bffffff7f
@@ -984,7 +984,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000098250000d625000024260000022700003e280000be2800002629000000ca9a3bffffff7f
+    m_ExpandedIDs: 0000000098250000d625000024260000022700003e280000be28000026290000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1011,7 +1011,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: 00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
